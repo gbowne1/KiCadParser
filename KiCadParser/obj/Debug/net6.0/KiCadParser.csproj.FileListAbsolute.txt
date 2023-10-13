@@ -1,0 +1,15 @@
+/home/gbowne1/Documents/KiCadParser/KiCadParser/bin/Debug/net6.0/KiCadParser
+/home/gbowne1/Documents/KiCadParser/KiCadParser/bin/Debug/net6.0/KiCadParser.deps.json
+/home/gbowne1/Documents/KiCadParser/KiCadParser/bin/Debug/net6.0/KiCadParser.runtimeconfig.json
+/home/gbowne1/Documents/KiCadParser/KiCadParser/bin/Debug/net6.0/KiCadParser.dll
+/home/gbowne1/Documents/KiCadParser/KiCadParser/bin/Debug/net6.0/KiCadParser.pdb
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/KiCadParser.csproj.AssemblyReference.cache
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/KiCadParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/KiCadParser.AssemblyInfoInputs.cache
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/KiCadParser.AssemblyInfo.cs
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/KiCadParser.csproj.CoreCompileInputs.cache
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/KiCadParser.dll
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/refint/KiCadParser.dll
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/KiCadParser.pdb
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/KiCadParser.genruntimeconfig.cache
+/home/gbowne1/Documents/KiCadParser/KiCadParser/obj/Debug/net6.0/ref/KiCadParser.dll
