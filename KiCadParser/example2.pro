@@ -218,7 +218,7 @@ Enabled=1
 Enabled=1
 [pcbnew/Layer.Dwgs.User]
 Enabled=1
-[pcbnew/Layer.Cmts.User]
+[pcbnew/Layer.Eco1.User]
 Enabled=1
 [pcbnew/Layer.Eco1.User]
 Enabled=1
