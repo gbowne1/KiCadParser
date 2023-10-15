@@ -1,0 +1,1 @@
+This project is a parser and generator for KiCAD projects.
